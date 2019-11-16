@@ -1,0 +1,10 @@
+2019-10-13 12:07:55.503 [restartedMain] INFO  com.guli.edu.EduApplication - Starting EduApplication on MinrudeMacBook-Air.local with PID 10337 (/Users/minru/guli/guli-miroservice-edu/target/classes started by minru in /Users/minru/guli)
+2019-10-13 12:07:55.508 [restartedMain] INFO  com.guli.edu.EduApplication - The following profiles are active: dev
+2019-10-13 12:08:04.290 [restartedMain] INFO  com.guli.edu.EduApplication - Started EduApplication in 9.758 seconds (JVM running for 11.148)
+2019-10-13 14:48:08.736 [restartedMain] INFO  com.guli.edu.EduApplication - Starting EduApplication on MinrudeMacBook-Air.local with PID 10675 (/Users/minru/guli/guli-miroservice-edu/target/classes started by minru in /Users/minru/guli)
+2019-10-13 14:48:08.740 [restartedMain] INFO  com.guli.edu.EduApplication - The following profiles are active: dev
+2019-10-13 14:48:16.692 [restartedMain] INFO  com.guli.edu.EduApplication - Started EduApplication in 9.328 seconds (JVM running for 11.325)
+2019-10-13 14:50:42.970 [http-nio-8110-exec-3] INFO  com.guli.common.handler.CommonMetaObjectHandler - start insert fill ....
+2019-10-13 17:19:44.727 [restartedMain] INFO  com.guli.edu.EduApplication - Starting EduApplication on MinrudeMacBook-Air.local with PID 13063 (/Users/minru/guli/guli-miroservice-edu/target/classes started by minru in /Users/minru/guli)
+2019-10-13 17:19:44.732 [restartedMain] INFO  com.guli.edu.EduApplication - The following profiles are active: dev
+2019-10-13 17:19:55.376 [restartedMain] INFO  com.guli.edu.EduApplication - Started EduApplication in 12.367 seconds (JVM running for 15.063)
